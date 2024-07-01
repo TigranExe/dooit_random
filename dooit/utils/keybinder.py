@@ -60,7 +60,7 @@ DEFAULTS = {
     "decrease urgency": ["-", "_"],
     "switch pane workspace": ["h"],
     "switch pane todo": ["l"],
-    "choose random": ["r"]
+    "choose random": ["9"]
 }
 
 configured_keys = deepcopy(DEFAULTS)
